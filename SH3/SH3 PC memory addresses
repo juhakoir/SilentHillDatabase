@@ -78,5 +78,11 @@ sh3.exe+6D1A710 (0711A710) float - Sceen rotation
 sh3.exe+6D2C26C (0712C26C) 4 byte - Current room index
 sh3.exe+6D2CA80 (0712CA80) binary - Weapons spawning 1
 sh3.exe+6D2CA81 (0712CA81) binary - Weapons spawning 2
-sh3.exe+6D2CAAC (0712CAAC) byte - Handgun ammo
-sh3.exe+6D2CAB2 (0712CAB2) byte - Health drinks amount
+sh3.exe+6D2CAAA (0712CAAA) 2 bytes - Stun gun ammo
+sh3.exe+6D2CAAC (0712CAAC) 2 bytes - Handgun ammo
+sh3.exe+6D2CAAE (0712CAAE) 2 bytes - Shotgun ammo
+sh3.exe+6D2CAB0 (0712CAB0) 2 bytes - SMG ammo
+sh3.exe+6D2CAB2 (0712CAB2) 2 bytes - Health drinks amount
+sh3.exe+6D2CAB4 (0712CAB4) 2 bytes - First aid kits amount
+sh3.exe+6D2CAB6 (0712CAB6) 2 bytes - Ampoules amount
+sh3.exe+6D2CAB8 (0712CAB8) 2 bytes - Beef jerky amount
